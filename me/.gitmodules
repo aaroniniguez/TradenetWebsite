@@ -1,0 +1,3 @@
+[submodule "build/vimrc"]
+	path = build/vimrc
+	url = https://github.com/aaroniniguez/vimrc.git

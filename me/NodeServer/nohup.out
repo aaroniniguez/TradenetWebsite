@@ -1,0 +1,7891 @@
+
+====Wed Jun 12 2019 21:17:56 ====
+hmmm
+
+====Wed Jun 12 2019 21:17:56 ====
+GET /me/css/bootstrap.css
+
+====Wed Jun 12 2019 21:18:03 ====
+hmmm
+
+====Wed Jun 12 2019 21:18:03 ====
+GET /me/css/bootstrap.css
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:18:54 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:19:06 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:46:54 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:47:04 ====
+/css/bootstrap.css
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:52:59 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/animate.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:53:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/style.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/js/main.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 21:53:01 ====
+/static/js/main.8cc253df.chunk.js
+
+====Wed Jun 12 2019 21:53:01 ====
+GET /images/about.jpg
+
+====Wed Jun 12 2019 21:53:01 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 12 2019 21:53:01 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 21:53:01 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 21:53:01 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 21:55:07 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:55:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/animate.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/css/style.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/js/main.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 21:55:10 ====
+/static/js/main.8cc253df.chunk.js
+
+====Wed Jun 12 2019 21:55:10 ====
+GET /images/about.jpg
+
+====Wed Jun 12 2019 21:55:10 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 12 2019 21:55:10 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 21:55:10 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 21:55:10 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/animate.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:55:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/js/jquery.min.map
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/style.css
+
+====Wed Jun 12 2019 21:55:17 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Wed Jun 12 2019 21:55:17 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 12 2019 21:55:17 ====
+/static/js/main.8cc253df.chunk.js.map
+
+====Wed Jun 12 2019 21:55:17 ====
+/css/bootstrap.css.map
+
+====Wed Jun 12 2019 21:55:17 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Wed Jun 12 2019 21:55:27 ====
+GET /images/about.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:55:35 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:69:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+(node:4250) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added. Use emitter.setMaxListeners() to increase limit
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:70:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:70:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:56:12 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:70:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/animate.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:56:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/style.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/static/js/main.8cc253df.chunk.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/main.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 21:56:18 ====
+/css/bootstrap.css.map
+
+====Wed Jun 12 2019 21:56:18 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Wed Jun 12 2019 21:56:18 ====
+/js/jquery.min.map
+
+====Wed Jun 12 2019 21:56:18 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 12 2019 21:56:18 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 21:56:18 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 21:56:18 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 21:56:18 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Wed Jun 12 2019 21:56:18 ====
+/static/js/main.8cc253df.chunk.js.map
+
+====Wed Jun 12 2019 21:56:41 ====
+GET /apple-touch-icon-precomposed.png
+
+====Wed Jun 12 2019 21:56:41 ====
+GET /apple-touch-icon.png
+
+====Wed Jun 12 2019 21:56:41 ====
+GET /favicon.ico
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[32m[nodemon] starting `node server.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:70:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:70:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+====Wed Jun 12 2019 21:57:19 ====
+Server is listening on port 3000
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at Server.listen (net.js:1405:7)
+    at Function.listen (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ec2-user/ReactWebsite/me/build/NodeServer/server.js:70:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1297:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Wed Jun 12 2019 22:00:31 ====
+Server is listening on port 3000
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/animate.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/style.css
+
+====Wed Jun 12 2019 22:00:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/js/main.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/static/js/main.8cc253df.chunk.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 22:00:33 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 22:00:33 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 22:00:33 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 22:02:17 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/animate.css
+
+====Wed Jun 12 2019 22:02:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 22:02:17 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/css/style.css
+
+====Wed Jun 12 2019 22:02:17 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 22:02:17 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 22:02:17 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 22:02:17 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 22:02:17 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 22:02:18 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 22:02:18 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 22:02:18 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 22:02:18 ====
+/js/main.js
+
+====Wed Jun 12 2019 22:02:18 ====
+/static/js/main.8cc253df.chunk.js
+
+====Wed Jun 12 2019 22:02:18 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 22:02:18 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 22:02:18 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 22:03:25 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:03:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/animate.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/css/style.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/js/main.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/static/js/main.8cc253df.chunk.js
+
+====Wed Jun 12 2019 22:03:25 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 22:03:25 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 22:03:25 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/animate.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:03:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/css/style.css
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/js/main.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/static/js/main.0eff647a.chunk.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 22:03:52 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 22:03:52 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 22:03:52 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 22:04:50 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:04:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/animate.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/css/style.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/static/js/main.d19c3573.chunk.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/js/main.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 22:04:50 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 22:04:50 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 22:04:50 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 22:10:18 ====
+/manifest.json
+
+====Wed Jun 12 2019 22:27:40 ====
+/css/animate.css
+
+====Wed Jun 12 2019 22:27:40 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 22:27:40 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 22:27:40 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 22:27:41 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:27:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 22:27:41 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 22:27:41 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 22:27:41 ====
+/css/style.css
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/js/main.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/static/js/main.d19c3573.chunk.js
+
+====Wed Jun 12 2019 22:27:41 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 22:27:41 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 22:27:42 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 23:36:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/animate.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/css/style.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/modernizr-2.6.2.min.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 23:36:12 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/jquery.min.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/jquery.easing.1.3.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/bootstrap.min.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/jquery.waypoints.min.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/jquery.flexslider-min.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/owl.carousel.min.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/jquery.countTo.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/js/main.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/static/js/main.d19c3573.chunk.js
+
+====Wed Jun 12 2019 23:36:12 ====
+/images/loader.gif
+
+====Wed Jun 12 2019 23:36:12 ====
+GET /me/images/loader.gif
+
+====Wed Jun 12 2019 23:36:12 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/animate.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/icomoon.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/flexslider.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/bootstrap.css
+
+====Wed Jun 12 2019 23:44:32 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/owl.carousel.min.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/owl.theme.default.min.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/js/jquery.min.map
+
+====Wed Jun 12 2019 23:44:32 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/style.css
+
+====Wed Jun 12 2019 23:44:32 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 12 2019 23:44:32 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Wed Jun 12 2019 23:44:32 ====
+/static/js/main.d19c3573.chunk.js.map
+
+====Wed Jun 12 2019 23:44:32 ====
+/css/bootstrap.css.map
+
+====Wed Jun 12 2019 23:44:32 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 05:31:29 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:31:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:31:29 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 05:31:29 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 05:31:29 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 05:31:29 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 05:31:29 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 05:31:29 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:31:29 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:31:29 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:31:29 ====
+/static/js/main.d19c3573.chunk.js.map
+
+====Thu Jun 13 2019 05:43:13 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:43:13 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:43:13 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:43:13 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:43:31 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:43:31 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:31 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:43:31 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:43:31 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:43:31 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:43:31 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:43:32 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:43:32 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:43:32 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:43:32 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:43:32 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:43:34 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:43:34 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:43:34 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:34 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:43:34 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:43:34 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:43:35 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:43:35 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:43:35 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:43:44 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 05:43:44 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 05:43:44 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 05:43:44 ====
+/static/js/main.d19c3573.chunk.js.map
+
+====Thu Jun 13 2019 05:43:44 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 05:43:44 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:44:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:44:40 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 05:44:40 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 05:44:40 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 05:44:40 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 05:44:40 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 05:44:40 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:44:40 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:44:40 ====
+GET /images/about.jpg
+
+====Thu Jun 13 2019 05:44:40 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:44:40 ====
+/static/js/main.d19c3573.chunk.js.map
+
+====Thu Jun 13 2019 05:45:40 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:45:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:45:40 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 05:45:40 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 05:45:40 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 05:45:40 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 05:45:40 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:45:40 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:45:40 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:45:40 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 05:45:40 ====
+/static/js/main.d19c3573.chunk.js.map
+
+====Thu Jun 13 2019 05:49:15 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:49:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:49:15 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 05:49:15 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 05:49:15 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 05:49:15 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 05:49:15 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:49:15 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:49:15 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:49:15 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 05:49:15 ====
+/static/js/main.d19c3573.chunk.js.map
+
+====Thu Jun 13 2019 05:49:21 ====
+GET /index.html
+
+====Thu Jun 13 2019 05:49:27 ====
+GET /index.html
+
+====Thu Jun 13 2019 05:55:55 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:55:55 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:55:55 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:55:55 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:55:55 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:55:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:55:56 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:55:56 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:55:56 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:55:56 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:55:56 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:55:56 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:56:02 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:56:02 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:56:02 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:56:02 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:56:02 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:56:02 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:56:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:56:02 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:56:03 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:56:03 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/static/js/main.d19c3573.chunk.js
+
+====Thu Jun 13 2019 05:56:03 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:56:03 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:56:03 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 05:56:04 ====
+GET /favicon.ico
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/animate.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:59:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/css/style.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/static/js/main.d84a2270.chunk.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 05:59:24 ====
+/js/main.js
+
+====Thu Jun 13 2019 05:59:25 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 05:59:25 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 05:59:25 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:00:09 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:00:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:00:09 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:00:09 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:00:09 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:00:09 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:00:09 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:00:09 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:00:10 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:00:10 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/static/js/main.d84a2270.chunk.js
+
+====Thu Jun 13 2019 06:00:10 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:00:10 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:00:10 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:00:25 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:00:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:00:25 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:00:25 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:00:25 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/static/js/main.d84a2270.chunk.js
+
+====Thu Jun 13 2019 06:00:26 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:00:26 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:00:26 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:01:24 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:01:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/static/js/main.d84a2270.chunk.js
+
+====Thu Jun 13 2019 06:01:24 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:01:24 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:01:24 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:01:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/static/js/main.fcab8720.chunk.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:01:53 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:01:53 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:01:53 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:01:57 ====
+GET /index.html
+
+====Thu Jun 13 2019 06:02:47 ====
+GET /index.html
+
+====Thu Jun 13 2019 06:02:55 ====
+GET /index.html
+
+====Thu Jun 13 2019 06:03:05 ====
+GET /apple-touch-icon-precomposed.png
+
+====Thu Jun 13 2019 06:03:05 ====
+GET /apple-touch-icon.png
+
+====Thu Jun 13 2019 06:03:05 ====
+GET /favicon.ico
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:03:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/static/js/main.fcab8720.chunk.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:03:25 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:03:25 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:03:25 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:03:26 ====
+GET /favicon.ico
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:05:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:05:04 ====
+/static/js/main.fcab8720.chunk.js
+
+====Thu Jun 13 2019 06:05:05 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:05:05 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:05:05 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:05:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/static/js/main.b5e1640f.chunk.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:05:42 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:05:43 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:05:43 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:05:43 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Thu Jun 13 2019 06:23:16 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:23:16 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:23:16 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:23:17 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:23:17 ====
+/static/js/main.ea973cbe.chunk.js
+
+====Thu Jun 13 2019 06:23:17 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:23:17 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:23:17 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:23:17 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:23:17 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:24:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/static/js/main.1f48b698.chunk.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:24:49 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:24:50 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:24:50 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:24:50 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:25:38 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/static/js/main.1f48b698.chunk.js
+
+====Thu Jun 13 2019 06:25:38 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:25:38 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:25:38 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:27:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:27:48 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:27:49 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:27:49 ====
+/static/js/main.fe61def9.chunk.js
+
+====Thu Jun 13 2019 06:27:49 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:27:49 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:27:49 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:27:49 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:27:49 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:32:20 ====
+GET /apple-touch-icon-precomposed.png
+
+====Thu Jun 13 2019 06:32:20 ====
+GET /apple-touch-icon.png
+
+====Thu Jun 13 2019 06:32:20 ====
+GET /favicon.ico
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:32:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/static/js/main.fe61def9.chunk.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:32:23 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:32:24 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:32:24 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:32:24 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:32:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 06:32:39 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:32:39 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 06:32:39 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 06:32:39 ====
+/static/js/main.fe61def9.chunk.js.map
+
+====Thu Jun 13 2019 06:32:40 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 06:32:40 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 06:34:31 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:34:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:34:31 ====
+/js/jquery.min.map
+
+====Thu Jun 13 2019 06:34:31 ====
+/static/css/main.fa0dffc4.chunk.css.map
+
+====Thu Jun 13 2019 06:34:31 ====
+/css/bootstrap.css.map
+
+====Thu Jun 13 2019 06:34:31 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 13 2019 06:34:31 ====
+/static/js/main.fe61def9.chunk.js
+
+====Thu Jun 13 2019 06:34:32 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:34:32 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:34:32 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 13 2019 06:34:32 ====
+/static/js/2.5ec21d73.chunk.js.map
+
+====Thu Jun 13 2019 06:34:32 ====
+/static/js/main.fe61def9.chunk.js.map
+
+====Thu Jun 13 2019 06:34:32 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+
+====Thu Jun 13 2019 06:39:21 ====
+/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:39:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 06:39:21 ====
+/css/animate.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/css/icomoon.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/css/bootstrap.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/css/flexslider.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/css/owl.theme.default.min.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/css/owl.carousel.min.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/static/css/main.fa0dffc4.chunk.css
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/modernizr-2.6.2.min.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/jquery.min.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/jquery.easing.1.3.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/bootstrap.min.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/jquery.waypoints.min.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/jquery.flexslider-min.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/owl.carousel.min.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/main.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/js/jquery.countTo.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/static/js/main.fe61def9.chunk.js
+
+====Thu Jun 13 2019 06:39:22 ====
+/images/loader.gif
+
+====Thu Jun 13 2019 06:39:22 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 06:39:22 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 13 2019 06:39:22 ====
+/fonts/icomoon/icomoon.ttf?srf3rx
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:49:46 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:50:10 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 06:50:20 ====
+GET /google
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:50:34 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 06:50:35 ====
+GET /google
+
+====Thu Jun 13 2019 06:50:36 ====
+GET /google
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:50:43 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 06:50:57 ====
+GET /google/index.html
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:51:32 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 06:51:34 ====
+GET /google/index.html
+
+====Thu Jun 13 2019 06:51:35 ====
+GET /google/index.html
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:51:52 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:52:16 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 06:52:34 ====
+GET /apple-touch-icon-precomposed.png
+
+====Thu Jun 13 2019 06:52:35 ====
+GET /apple-touch-icon.png
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:54:26 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 06:54:30 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 06:54:32 ====
+/index.html
+
+====Thu Jun 13 2019 06:54:32 ====
+/css/style.css
+
+====Thu Jun 13 2019 06:54:32 ====
+/script.js
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-1.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-2.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-3.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-5.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-6.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-4.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/logo.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/mic.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-7.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-8.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/app-9.png
+
+====Thu Jun 13 2019 06:54:32 ====
+/images/favicon.png
+
+====Thu Jun 13 2019 06:54:33 ====
+/images/favicon.png
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 07:01:43 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Thu Jun 13 2019 07:01:46 ====
+Server is listening on port 3000
+
+====Thu Jun 13 2019 21:35:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 21:35:22 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 21:35:22 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 13 2019 22:52:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 13 2019 22:52:08 ====
+GET /me/images/loader.gif
+
+====Thu Jun 13 2019 22:52:08 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 13 2019 22:52:08 ====
+GET /favicon.ico
+
+====Fri Jun 14 2019 06:19:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 14 2019 06:19:16 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 14 2019 06:19:16 ====
+GET /me/images/loader.gif
+
+====Fri Jun 14 2019 06:19:17 ====
+GET /favicon.ico
+
+====Fri Jun 14 2019 06:19:45 ====
+GET /apple-touch-icon-precomposed.png
+
+====Fri Jun 14 2019 06:19:45 ====
+GET /apple-touch-icon.png
+
+====Fri Jun 14 2019 06:19:46 ====
+GET /favicon.ico
+
+====Fri Jun 14 2019 06:19:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 14 2019 06:19:53 ====
+GET /me/images/loader.gif
+
+====Fri Jun 14 2019 06:19:53 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 14 2019 06:20:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 14 2019 06:20:01 ====
+GET /me/images/loader.gif
+
+====Fri Jun 14 2019 06:20:01 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 14 2019 16:41:56 ====
+GET /favicon.ico
+
+====Fri Jun 14 2019 18:11:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 14 2019 18:11:18 ====
+GET /me/images/loader.gif
+
+====Fri Jun 14 2019 18:11:18 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 14 2019 23:15:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 14 2019 23:15:30 ====
+GET /me/images/loader.gif
+
+====Fri Jun 14 2019 23:15:30 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 19:47:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 19:47:56 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 19:47:56 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 19:47:57 ====
+GET /favicon.ico
+
+====Sun Jun 16 2019 21:34:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 21:34:34 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:45:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:45:54 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 22:45:54 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 22:46:36 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:46:36 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:51:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:51:34 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:51:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:51:43 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:53:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:53:03 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:53:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:53:29 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:53:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:53:44 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:54:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:54:47 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:54:47 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 22:54:47 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 22:54:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:54:58 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:54:58 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 22:54:58 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Sun Jun 16 2019 22:56:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:56:26 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:57:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:57:47 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:57:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:57:50 ====
+GET /me/js/jquery.min.map
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Sun Jun 16 2019 22:59:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 22:59:41 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 16 2019 22:59:41 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 22:59:41 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 23:27:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 23:27:47 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 23:27:47 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 23:30:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 23:30:55 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 23:30:55 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 23:41:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 23:41:58 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 16 2019 23:41:58 ====
+GET /me/images/loader.gif
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Sun Jun 16 2019 23:44:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 16 2019 23:44:58 ====
+GET /me/images/loader.gif
+
+====Sun Jun 16 2019 23:44:58 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:14:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:15:00 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:15:00 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:16:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:16:42 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:16:42 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:23:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:23:23 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:23:23 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:26:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:26:35 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:26:35 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:27:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:27:14 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:27:14 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Mon Jun 17 2019 00:29:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:29:59 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:29:59 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:31:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:31:22 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:31:22 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:31:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:31:25 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:31:25 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:31:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:31:31 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:31:31 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 17 2019 00:31:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 17 2019 00:31:38 ====
+GET /me/images/loader.gif
+
+====Mon Jun 17 2019 00:31:38 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 18 2019 16:43:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 18 2019 16:43:57 ====
+GET /me/images/loader.gif
+
+====Tue Jun 18 2019 16:43:57 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 18 2019 16:43:57 ====
+GET /favicon.ico
+
+====Tue Jun 18 2019 21:12:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 18 2019 21:13:20 ====
+GET /me/images/loader.gif
+
+====Tue Jun 18 2019 21:13:21 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 18 2019 21:37:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 18 2019 21:37:22 ====
+GET /me/images/loader.gif
+
+====Tue Jun 18 2019 21:37:22 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 18 2019 22:54:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 18 2019 22:54:51 ====
+GET /me/images/loader.gif
+
+====Tue Jun 18 2019 22:54:51 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 18 2019 22:54:52 ====
+GET /favicon.ico
+
+====Tue Jun 18 2019 22:54:53 ====
+GET /apple-touch-icon-precomposed.png
+
+====Tue Jun 18 2019 22:54:53 ====
+GET /apple-touch-icon.png
+
+====Tue Jun 18 2019 22:54:53 ====
+GET /favicon.ico
+
+====Tue Jun 18 2019 22:54:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 18 2019 22:54:57 ====
+GET /me/images/loader.gif
+
+====Tue Jun 18 2019 22:54:57 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 18 2019 22:54:57 ====
+GET /favicon.ico
+
+====Thu Jun 20 2019 00:38:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:38:07 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:38:07 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:38:07 ====
+GET /favicon.ico
+
+====Thu Jun 20 2019 00:40:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:40:58 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:40:58 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:42:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:42:02 ====
+GET /me/static/js/main.e1bf91ee.chunk.js
+
+====Thu Jun 20 2019 00:42:02 ====
+GET /me/static/js/2.5ec21d73.chunk.js
+
+====Thu Jun 20 2019 00:42:02 ====
+GET /me/static/js/main.e1bf91ee.chunk.js
+
+====Thu Jun 20 2019 00:42:27 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:42:27 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:42:28 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:42:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:42:37 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 20 2019 00:43:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:43:23 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 20 2019 00:43:23 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:43:23 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:43:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:43:57 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 20 2019 00:43:57 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:43:57 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:44:51 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:44:51 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 20 2019 00:44:52 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:44:52 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:48:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:48:12 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 20 2019 00:48:12 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:48:12 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 00:49:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 00:49:24 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 20 2019 00:49:24 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 00:49:24 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 22:04:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 22:04:51 ====
+GET /me/images/loader.gif
+
+====Thu Jun 20 2019 22:04:51 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 20 2019 22:15:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 20 2019 22:15:04 ====
+GET /me/js/jquery.min.map
+
+====Fri Jun 21 2019 16:57:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 16:57:19 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 16:57:19 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 21 2019 16:57:19 ====
+GET /favicon.ico
+
+====Fri Jun 21 2019 17:00:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:00:51 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 17:00:51 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 21 2019 17:01:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:01:39 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 17:01:39 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 21 2019 17:02:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:02:16 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 17:02:16 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 21 2019 17:04:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:04:23 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 17:04:23 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 21 2019 17:17:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:17:09 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 17:17:09 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 21 2019 17:17:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:17:49 ====
+GET /me/js/jquery.min.map
+
+====Fri Jun 21 2019 17:18:34 ====
+GET /me/js/jquery.min.map
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Fri Jun 21 2019 17:20:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 21 2019 17:20:25 ====
+GET /me/images/loader.gif
+
+====Fri Jun 21 2019 17:20:25 ====
+GET /images/img_bg.jpg
+
+====Sat Jun 22 2019 10:23:29 ====
+GET /favicon.ico
+
+====Sat Jun 22 2019 22:00:57 ====
+GET http://169.254.169.254/latest/meta-data
+
+====Sun Jun 23 2019 20:45:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 23 2019 20:45:17 ====
+GET /me/images/loader.gif
+
+====Sun Jun 23 2019 20:45:17 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 23 2019 20:45:18 ====
+GET /favicon.ico
+
+====Sun Jun 23 2019 20:52:36 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 23 2019 20:52:36 ====
+GET /me/images/loader.gif
+
+====Sun Jun 23 2019 20:52:36 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 23 2019 20:52:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 23 2019 20:52:42 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Mon Jun 24 2019 03:58:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 03:58:34 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 03:58:34 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 04:01:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 04:01:59 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 04:01:59 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:49:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:49:02 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 18:49:02 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:52:03 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:52:04 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 18:52:04 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:52:16 ====
+GET /index.html
+
+====Mon Jun 24 2019 18:52:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:52:19 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 18:52:19 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:52:50 ====
+GET /index.html
+
+====Mon Jun 24 2019 18:53:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:53:18 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 18:53:18 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:53:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:53:20 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:53:22 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:53:22 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 18:56:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 18:56:57 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 18:56:57 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 19:05:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 19:05:43 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 19:05:43 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 19:05:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 19:05:58 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 19:05:58 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 19:06:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 19:06:25 ====
+GET /me/js/jquery.min.map
+
+====Mon Jun 24 2019 19:08:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 19:08:54 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 19:08:54 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 20:02:30 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 20:02:30 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 20:02:30 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 20:02:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 20:02:44 ====
+GET /me/js/jquery.min.map
+
+====Mon Jun 24 2019 20:06:35 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 20:06:36 ====
+GET /me/js/jquery.min.map
+
+====Mon Jun 24 2019 20:06:36 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 20:06:36 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 20:24:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 20:24:01 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 20:24:01 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 20:37:27 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 21:11:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 21:11:01 ====
+GET /me/images/loader.gif
+
+====Mon Jun 24 2019 21:11:01 ====
+GET /images/img_bg.jpg
+
+====Mon Jun 24 2019 21:17:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 21:18:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 21:18:35 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 21:18:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Mon Jun 24 2019 21:18:39 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 05:28:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 05:28:53 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:11:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:11:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:12:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:12:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:13:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:13:19 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:13:19 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:14:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:14:53 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:14:53 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:20:28 ====
+GET /me/fonts/flaticon/font/flaticon.css
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Tue Jun 25 2019 22:22:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:22:12 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:22:12 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:22:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:22:50 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:22:50 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:26:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:26:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:27:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:27:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:28:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:28:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:29:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:29:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:29:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:29:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:29:41 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:31:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:31:19 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:31:19 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:31:19 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:31:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:31:47 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:31:48 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:31:48 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:32:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:32:15 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:32:16 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:32:16 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:32:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:32:29 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:32:29 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:32:29 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:32:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:32:47 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:33:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:33:47 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:35:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:35:41 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:35:41 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:35:41 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:44:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:44:54 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:44:55 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 22:44:55 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 22:45:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:45:53 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:46:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:46:44 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:51:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:51:43 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:58:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:58:07 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 22:59:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 22:59:59 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:01:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:01:21 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:03:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:03:46 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:03:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:03:48 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:03:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:03:56 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:08:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:08:48 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:08:48 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:08:48 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:10:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:10:42 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:10:43 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:10:43 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:12:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:12:01 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:12:01 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:12:01 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:13:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:13:13 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:13:13 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:13:13 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:13:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:13:46 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:13:47 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:13:47 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:14:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:14:37 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:14:37 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:14:37 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:16:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:16:08 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:16:09 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:16:09 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:16:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:16:49 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:16:49 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:16:49 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:16:50 ====
+GET /images/Books/undefined
+
+====Tue Jun 25 2019 23:17:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:17:32 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:17:32 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:17:32 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:18:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:18:59 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:19:00 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:19:00 ====
+GET /images/img_bg.jpg
+
+====Tue Jun 25 2019 23:19:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Tue Jun 25 2019 23:19:40 ====
+GET /me/js/jquery.min.map
+
+====Tue Jun 25 2019 23:19:40 ====
+GET /me/images/loader.gif
+
+====Tue Jun 25 2019 23:19:40 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 00:22:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 00:22:08 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 00:22:08 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 00:22:08 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:19:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:19:45 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:19:45 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:22:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:22:37 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:22:37 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:23:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:23:56 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:23:56 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:24:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:24:04 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:24:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:24:24 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:24:24 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:24:24 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:26:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:26:54 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:26:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:26:56 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:28:35 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:28:35 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:28:36 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:28:36 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:31:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:31:09 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:31:09 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:31:09 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:31:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:31:59 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:32:00 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:32:00 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:32:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:32:13 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:32:13 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:32:13 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:32:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:32:44 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:32:44 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:32:44 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:32:44 ====
+GET /favicon.ico
+
+====Wed Jun 26 2019 02:33:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:33:04 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:33:04 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:33:04 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:33:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:33:45 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:33:45 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:33:45 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:40:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:40:44 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:40:44 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:40:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:40:53 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:41:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:41:41 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:41:41 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:45:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:45:24 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:45:24 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:45:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:45:26 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:46:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:46:09 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 02:46:09 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:46:09 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:53:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:53:37 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:53:37 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 02:54:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 02:54:14 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 02:54:14 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:06:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:06:11 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:06:11 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:08:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:08:05 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:08:05 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:08:45 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:08:46 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 06:09:38 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:09:38 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 06:09:39 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:09:39 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:10:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:10:15 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 06:11:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:11:20 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 06:11:20 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:11:21 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:32:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:32:12 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:32:12 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:36:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:36:53 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:36:53 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:38:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:38:55 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:38:55 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:40:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:40:46 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:40:46 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Wed Jun 26 2019 06:41:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:41:39 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:41:39 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:42:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:42:24 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:42:24 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:45:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:45:40 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:45:40 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:48:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:48:34 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:48:34 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Wed Jun 26 2019 06:48:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:48:53 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:48:53 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 06:51:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 06:51:12 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 06:51:13 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 17:56:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 17:56:50 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 17:56:50 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 17:56:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 17:56:57 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 17:58:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 17:58:32 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 17:58:32 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 18:31:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 18:31:23 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 18:31:24 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 18:31:24 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 18:36:38 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 18:36:39 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 18:36:39 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 18:36:39 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 18:46:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 18:46:59 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 18:46:59 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 18:46:59 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 18:47:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 18:47:21 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 18:47:21 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 18:47:21 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 21:26:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 21:26:25 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 21:26:25 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:03:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:03:23 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:03:23 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:26:51 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:26:51 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:26:52 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:27:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:27:44 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:27:44 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:28:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:28:11 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:29:28 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:29:29 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:29:29 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:29:29 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:33:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:33:30 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:33:30 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:33:30 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:35:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:35:50 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:35:50 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:35:50 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:40:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:40:56 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:40:57 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:47:03 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:47:04 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:47:04 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:47:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:47:11 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:47:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:47:18 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:47:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:47:29 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:47:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:47:59 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:47:59 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:48:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:48:05 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:48:32 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:48:32 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:48:32 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:48:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:48:56 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:49:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:49:45 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:49:45 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:51:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:51:51 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:51:51 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:54:03 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:54:04 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:54:04 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:55:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:55:14 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:55:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 22:55:57 ====
+GET /me/js/jquery.min.map
+
+====Wed Jun 26 2019 22:55:57 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 22:55:57 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 22:56:13 ====
+GET /apple-touch-icon-precomposed.png
+
+====Wed Jun 26 2019 22:56:13 ====
+GET /apple-touch-icon.png
+
+====Wed Jun 26 2019 22:56:14 ====
+GET /favicon.ico
+
+====Wed Jun 26 2019 23:05:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 23:05:53 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 23:05:53 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 23:06:32 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 23:06:33 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 23:06:33 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 23:11:45 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 23:11:46 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 23:11:46 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 23:13:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 23:13:19 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 23:13:19 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Wed Jun 26 2019 23:15:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 23:15:14 ====
+GET /me/images/loader.gif
+
+====Wed Jun 26 2019 23:15:14 ====
+GET /images/img_bg.jpg
+
+====Wed Jun 26 2019 23:15:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Wed Jun 26 2019 23:15:16 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 05:52:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 05:52:55 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 05:52:55 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 05:52:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 05:52:58 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 05:53:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 05:53:21 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 05:53:21 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:00:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:00:27 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:00:27 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:33:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:33:23 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:33:23 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:34:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:34:02 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:34:03 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:34:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:34:59 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:34:59 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:35:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:35:07 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:36:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:36:06 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:36:06 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:36:07 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:36:30 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:36:30 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:36:31 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:36:31 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:37:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:37:03 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:37:03 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:37:04 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:37:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:37:44 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:37:45 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:37:45 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Thu Jun 27 2019 06:38:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:38:07 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:38:08 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:38:09 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:42:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:43:00 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:43:00 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:43:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:43:10 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:44:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:44:10 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:44:10 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:44:10 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:44:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:44:39 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:44:39 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:44:39 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:45:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:45:31 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:45:32 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:45:32 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:46:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:46:12 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:46:13 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:46:13 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:47:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:47:35 ====
+GET /me/js/jquery.min.map
+
+====Thu Jun 27 2019 06:47:36 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:47:36 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:48:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:48:55 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:48:56 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:50:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:50:42 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:50:42 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:52:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:52:08 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:52:08 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 06:53:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 06:53:39 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 06:53:39 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 07:00:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 07:00:43 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 07:00:43 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 07:15:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 07:15:16 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 07:15:16 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 07:34:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 07:34:49 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 07:34:49 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 07:34:49 ====
+GET /favicon.ico
+
+====Thu Jun 27 2019 18:18:28 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 18:25:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 18:25:09 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 18:25:09 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 22:32:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 22:32:53 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 22:32:53 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 22:44:36 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 22:44:36 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 22:44:36 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 22:44:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 22:44:57 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 22:44:57 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 22:56:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 22:56:03 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 22:56:03 ====
+GET /images/Payout/PayoutSpecialCase.png
+
+====Thu Jun 27 2019 22:56:03 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 22:56:08 ====
+GET /images/Payout/PayoutSpecialCase.png
+
+====Thu Jun 27 2019 22:56:42 ====
+GET /images/Payout/PayoutSpecialCase.png
+
+====Thu Jun 27 2019 22:56:43 ====
+GET /images/Payout/PayoutSpecialCase.png
+
+====Thu Jun 27 2019 22:56:44 ====
+GET /images/Payout/PayoutSpecialCase.png
+
+====Thu Jun 27 2019 22:57:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 22:57:43 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 22:57:43 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 22:58:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 22:58:50 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 22:58:50 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:00:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:00:08 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:00:08 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:00:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:00:27 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:00:27 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:01:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:01:07 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:01:07 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:03:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:03:22 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:03:22 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Thu Jun 27 2019 23:04:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:04:25 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:04:25 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:05:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:05:51 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:05:51 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:08:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:08:40 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:08:40 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:10:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:10:19 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:10:20 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:11:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:11:08 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:11:08 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:11:36 ====
+GET /apple-touch-icon-precomposed.png
+
+====Thu Jun 27 2019 23:11:36 ====
+GET /apple-touch-icon.png
+
+====Thu Jun 27 2019 23:11:36 ====
+GET /favicon.ico
+
+====Thu Jun 27 2019 23:14:27 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:14:28 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:14:28 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:44:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Thu Jun 27 2019 23:44:17 ====
+GET /images/img_bg.jpg
+
+====Thu Jun 27 2019 23:44:17 ====
+GET /me/images/loader.gif
+
+====Thu Jun 27 2019 23:44:18 ====
+GET /favicon.ico
+
+====Fri Jun 28 2019 00:52:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 00:52:44 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 00:52:44 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 00:55:06 ====
+GET /images/
+
+====Fri Jun 28 2019 00:55:53 ====
+GET /images/
+
+====Fri Jun 28 2019 00:56:04 ====
+GET /images/
+
+====Fri Jun 28 2019 00:56:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 00:56:07 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 00:56:07 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 00:57:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 00:57:38 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 00:57:38 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 00:58:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 00:58:48 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 00:58:48 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 01:04:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 01:04:01 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 01:04:01 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 01:17:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 01:17:09 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 01:17:09 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 02:46:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 02:46:12 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 02:46:12 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 02:46:12 ====
+GET /favicon.ico
+
+====Fri Jun 28 2019 21:58:41 ====
+GET /favicon.ico
+
+====Fri Jun 28 2019 21:59:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 21:59:47 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 21:59:47 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:00:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:00:05 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:00:05 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:00:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:00:22 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:00:22 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Fri Jun 28 2019 22:02:03 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Fri Jun 28 2019 22:03:08 ====
+Server is listening on port 3000
+
+====Fri Jun 28 2019 22:04:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:04:11 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:04:11 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:06:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:06:47 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:06:47 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:08:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:08:34 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:08:34 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:12:03 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:12:04 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:12:04 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:12:38 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:12:39 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:12:39 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:13:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:13:05 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:13:05 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:14:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:14:21 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:14:22 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:15:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:15:18 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:15:18 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:17:11 ====
+GET /apple-touch-icon-precomposed.png
+
+====Fri Jun 28 2019 22:17:11 ====
+GET /apple-touch-icon.png
+
+====Fri Jun 28 2019 22:17:11 ====
+GET /favicon.ico
+
+====Fri Jun 28 2019 22:18:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:18:07 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:18:07 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:18:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:19:00 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:19:00 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:21:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:21:44 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:21:44 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:24:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:24:54 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:24:54 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:25:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:25:15 ====
+GET /me/js/jquery.min.map
+
+====Fri Jun 28 2019 22:25:35 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:25:36 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:25:36 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:26:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:26:15 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:26:15 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:28:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:28:08 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:28:08 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:28:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:28:35 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:28:35 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 22:29:51 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 22:29:52 ====
+GET /me/images/loader.gif
+
+====Fri Jun 28 2019 22:29:53 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 23:34:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Fri Jun 28 2019 23:34:13 ====
+GET /images/img_bg.jpg
+
+====Fri Jun 28 2019 23:34:13 ====
+GET /me/images/loader.gif
+
+====Sat Jun 29 2019 06:02:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sat Jun 29 2019 06:03:00 ====
+GET /me/images/loader.gif
+
+====Sat Jun 29 2019 06:03:00 ====
+GET /images/img_bg.jpg
+
+====Sat Jun 29 2019 06:03:00 ====
+GET /favicon.ico
+
+====Sun Jun 30 2019 04:00:03 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 04:00:03 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 04:00:03 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 04:01:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 04:01:21 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 04:01:21 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 04:06:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 04:06:55 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 04:06:55 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 04:17:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 04:17:49 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 04:17:49 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:11:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:11:34 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:11:34 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:14:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:14:16 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:14:16 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:17:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:17:18 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:17:18 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:20:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:20:14 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:20:14 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:28:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:28:14 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:28:14 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:31:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:31:30 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:31:30 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:32:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:32:02 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:32:03 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 05:32:28 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:32:29 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:32:29 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Sun Jun 30 2019 05:52:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 05:52:46 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 05:52:47 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:05:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:05:03 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:05:03 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:05:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:05:51 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:05:51 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:07:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:07:20 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:07:21 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:07:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:07:58 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:07:58 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:08:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:08:46 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:08:47 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:11:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:11:20 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:11:20 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:13:15 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:13:16 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:13:16 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:28:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:28:50 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:28:50 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:45:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:45:26 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:45:26 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:45:30 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:45:30 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:45:30 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:51:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:51:40 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 06:51:40 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 06:51:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 06:51:43 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:02:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:02:24 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:02:24 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:03:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:03:02 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:03:02 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:03:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:03:06 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:03:06 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:03:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:03:09 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:03:09 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:03:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:03:13 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:03:49 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:04:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:04:11 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:04:11 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:04:11 ====
+GET /images/img_bg.jpg
+Error: ENOENT: no such file or directory, stat '/home/ec2-user/ReactWebsite/me/build/index.html'
+
+====Sun Jun 30 2019 07:05:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:05:47 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:05:47 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:05:47 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:05:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:05:55 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:05:55 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:06:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:06:14 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:06:14 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:09:52 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:09:59 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:10:18 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:10:24 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:15:15 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:15:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:17 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:17 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:15:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:20 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:20 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:15:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:26 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:26 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:15:28 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:29 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:29 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:15:35 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:35 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:15:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:40 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:15:40 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:40 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:15:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:44 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:15:44 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:44 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:15:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:15:53 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:15:53 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:16:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:16:10 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:16:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:16:20 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:16:20 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:16:26 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:16:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:16:30 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:16:30 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:16:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:16:43 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:16:43 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:16:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:16:54 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:16:54 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:16:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:16:57 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:17:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:17:01 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:17:23 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:17:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:17:26 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:17:30 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:17:30 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:17:38 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:17:38 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:17:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:17:45 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:17:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:17:50 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:18:07 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:18:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:18:09 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:18:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:18:12 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+/home/ec2-user/ReactWebsite/me/NodeServer/server.js:45
+	req.get("/#shorts", function(err, response, body)) {
+	                                                 ^
+
+SyntaxError: Unexpected token )
+    at new Script (vm.js:80:7)
+    at createScript (vm.js:274:10)
+    at Object.runInThisContext (vm.js:326:10)
+    at Module._compile (internal/modules/cjs/loader.js:664:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:20:50 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:21:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:21:05 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:21:05 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:21:50 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:21:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:21:54 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:21:54 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:22:54 ====
+Server is listening on port 3000
+ReferenceError: request is not defined
+    at /home/ec2-user/ReactWebsite/me/NodeServer/server.js:46:3
+    at Layer.handle [as handle_request] (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: request is not defined
+    at /home/ec2-user/ReactWebsite/me/NodeServer/server.js:46:3
+    at Layer.handle [as handle_request] (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/ec2-user/ReactWebsite/me/node_modules/express/lib/router/layer.js:95:5)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:23:08 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:23:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:23:15 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:23:15 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:24:14 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:24:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:24:17 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:24:17 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:24:21 ====
+GET /shorts
+
+====Sun Jun 30 2019 07:29:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:29:02 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:29:02 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+/home/ec2-user/ReactWebsite/me/NodeServer/server.js:44
+app.get('/shorts'
+        ^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at new Script (vm.js:80:7)
+    at createScript (vm.js:274:10)
+    at Object.runInThisContext (vm.js:326:10)
+    at Module._compile (internal/modules/cjs/loader.js:664:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+/home/ec2-user/ReactWebsite/me/NodeServer/server.js:44
+app.get('/shorts'
+        ^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at new Script (vm.js:80:7)
+    at createScript (vm.js:274:10)
+    at Object.runInThisContext (vm.js:326:10)
+    at Module._compile (internal/modules/cjs/loader.js:664:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+/home/ec2-user/ReactWebsite/me/NodeServer/server.js:44
+app.get('/shorts'
+        ^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at new Script (vm.js:80:7)
+    at createScript (vm.js:274:10)
+    at Object.runInThisContext (vm.js:326:10)
+    at Module._compile (internal/modules/cjs/loader.js:664:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+/home/ec2-user/ReactWebsite/me/NodeServer/server.js:44
+app.get('/shorts'
+        ^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at new Script (vm.js:80:7)
+    at createScript (vm.js:274:10)
+    at Object.runInThisContext (vm.js:326:10)
+    at Module._compile (internal/modules/cjs/loader.js:664:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:32:02 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:32:03 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:04 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:32:04 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:32:08 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:32:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:10 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:32:10 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:32:22 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:23 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:32:23 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:32:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:26 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:32:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:32 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:32:38 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:39 ====
+GET /images/img_bg.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:32:46 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 07:32:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:47 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:32:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:32:50 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:33:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:33:01 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:33:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:33:09 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 07:33:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:33:21 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 07:33:21 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 07:33:32 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 07:33:32 ====
+GET /me/js/jquery.min.map
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 07:35:50 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 19:26:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 19:26:48 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 19:26:48 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 19:26:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 19:26:54 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 19:26:54 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 19:27:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 19:27:00 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 19:27:00 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 19:27:22 ====
+GET /shorts
+
+====Sun Jun 30 2019 19:27:26 ====
+GET /test
+
+====Sun Jun 30 2019 19:27:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 19:27:29 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 19:27:29 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 19:52:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 19:52:50 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 19:52:50 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 20:00:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 20:03:07 ====
+GET /topics
+
+====Sun Jun 30 2019 20:03:10 ====
+GET /topics
+
+====Sun Jun 30 2019 20:03:12 ====
+GET /topics
+
+====Sun Jun 30 2019 20:03:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 20:03:27 ====
+GET /about
+
+====Sun Jun 30 2019 20:03:30 ====
+GET /me/fonts/flaticon/font/flaticon.css
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:06:09 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 20:06:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 20:06:16 ====
+GET /about
+
+====Sun Jun 30 2019 20:06:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 20:06:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:06:46 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 20:06:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 20:06:50 ====
+GET /images/img-1.jpg
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:07:16 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:07:18 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:15:51 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:17:29 ====
+Server is listening on port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:56:38 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 20:56:40 ====
+GET /test.php
+
+====Sun Jun 30 2019 20:56:40 ====
+RESPONSE {"live":"success"}
+
+====Sun Jun 30 2019 20:56:43 ====
+GET /me/fonts/flaticon/font/flaticon.css
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 20:56:45 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 20:57:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 20:57:49 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 20:57:49 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 20:59:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:01:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:02:36 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:03:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:03:40 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:03:40 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:03:44 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:03:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:03:45 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:03:45 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:03:46 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:04:16 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:04:16 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:04:16 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:04:16 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:04:19 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:04:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:04:19 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:04:26 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:04:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:04:27 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:04:27 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:06:34 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:06:35 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:08:05 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:08:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:08:50 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:08:51 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:09:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:09:10 ====
+GET /me/js/jquery.min.map
+
+====Sun Jun 30 2019 21:10:22 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:10:22 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:10:37 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:10:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:11:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:12:41 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:12:46 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:12:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:12:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:13:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:10 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:14:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:12 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:14:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:14 ====
+GET /layout
+
+====Sun Jun 30 2019 21:14:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:17 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:14:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:18 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:14:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:21 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:14:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:25 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:14:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:26 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:14:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:28 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:14:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:33 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:14:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:36 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:14:36 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:39 ====
+GET /layout
+
+====Sun Jun 30 2019 21:14:39 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:45 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:14:45 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:49 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:14:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:52 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:14:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:14:54 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:14:54 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:04 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:15:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:06 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:15:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:08 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:15:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:09 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:15:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:10 ====
+GET /about
+
+====Sun Jun 30 2019 21:15:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:11 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:15:11 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:15:18 ====
+GET /layout
+
+====Sun Jun 30 2019 21:15:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:19 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:15:19 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:20 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:15:20 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:21 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:15:21 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:22 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:15:22 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:25 ====
+GET /books
+
+====Sun Jun 30 2019 21:15:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:29 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:15:29 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:15:31 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:15:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:16:08 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:16:08 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:16:09 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:16:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:16:12 ====
+GET /layout
+
+====Sun Jun 30 2019 21:16:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:16:14 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:16:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:45 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:29:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:47 ====
+GET /layout
+
+====Sun Jun 30 2019 21:29:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:48 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:29:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:49 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:29:49 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:51 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:29:51 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:52 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:29:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:29:56 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:29:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:00 ====
+GET /about
+
+====Sun Jun 30 2019 21:30:00 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:00 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:30:00 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:30:01 ====
+GET /layout
+
+====Sun Jun 30 2019 21:30:01 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:02 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:30:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:44 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:30:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:44 ====
+GET /layout
+
+====Sun Jun 30 2019 21:30:45 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:45 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:30:45 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:48 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:30:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:57 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:30:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:58 ====
+GET /about
+
+====Sun Jun 30 2019 21:30:58 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:30:58 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:30:59 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:30:59 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:31:02 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:31:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:31:02 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:31:02 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:31:04 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:31:04 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:31:05 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:31:05 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:33:47 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:33:48 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:33:51 ====
+GET /layout
+
+====Sun Jun 30 2019 21:33:51 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:33:52 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:33:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:35:30 ====
+GET /layout
+
+====Sun Jun 30 2019 21:35:30 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:35:31 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:35:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:35:32 ====
+GET /layout
+
+====Sun Jun 30 2019 21:35:32 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:35:32 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:35:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:35:34 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:35:34 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:38:05 ====
+GET /layout
+
+====Sun Jun 30 2019 21:38:06 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:38:12 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:38:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:38:14 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:38:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:38:57 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:38:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:39:11 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:39:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:39:22 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:39:22 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:39:24 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:39:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:51:23 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:51:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:51:28 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:51:28 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:51:28 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:51:32 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:51:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:53:23 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:53:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:53:24 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:53:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:53:25 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:53:25 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:53:26 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:53:26 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:53:27 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:53:27 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:53:31 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:53:31 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:55:17 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:55:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:07 ====
+GET /about
+
+====Sun Jun 30 2019 21:56:07 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:07 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 21:56:07 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 21:56:09 ====
+GET /payouts
+
+====Sun Jun 30 2019 21:56:09 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:09 ====
+GET /layout
+
+====Sun Jun 30 2019 21:56:10 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:11 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:56:11 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:11 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:56:12 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:12 ====
+GET /commissions
+
+====Sun Jun 30 2019 21:56:13 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:56:14 ====
+GET /hedging
+
+====Sun Jun 30 2019 21:56:14 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:57:57 ====
+GET /layout
+
+====Sun Jun 30 2019 21:57:57 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:58:53 ====
+GET /layout
+
+====Sun Jun 30 2019 21:58:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:58:55 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 21:58:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 21:58:56 ====
+GET /shorts
+
+====Sun Jun 30 2019 21:58:56 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:44 ====
+GET /about
+
+====Sun Jun 30 2019 22:02:44 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:44 ====
+GET /me/images/loader.gif
+
+====Sun Jun 30 2019 22:02:44 ====
+GET /images/img_bg.jpg
+
+====Sun Jun 30 2019 22:02:45 ====
+GET /hotkeys
+
+====Sun Jun 30 2019 22:02:46 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:47 ====
+GET /shorts
+
+====Sun Jun 30 2019 22:02:47 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:50 ====
+GET /packages
+
+====Sun Jun 30 2019 22:02:50 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:52 ====
+GET /commissions
+
+====Sun Jun 30 2019 22:02:52 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:53 ====
+GET /shorts
+
+====Sun Jun 30 2019 22:02:53 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:02:55 ====
+GET /payouts
+
+====Sun Jun 30 2019 22:02:55 ====
+GET /me/fonts/flaticon/font/flaticon.css
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+
+====Sun Jun 30 2019 22:07:11 ====
+Server is listening on port 3000
+
+====Sun Jun 30 2019 22:08:40 ====
+GET /payouts
+
+====Sun Jun 30 2019 22:08:40 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:08:42 ====
+GET /commissions
+
+====Sun Jun 30 2019 22:08:42 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:21:33 ====
+GET /commissions
+
+====Sun Jun 30 2019 22:21:33 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:23:36 ====
+GET /commissions
+
+====Sun Jun 30 2019 22:23:36 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:27:17 ====
+GET /layout
+
+====Sun Jun 30 2019 22:27:17 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:27:18 ====
+GET /payouts
+
+====Sun Jun 30 2019 22:27:18 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:27:22 ====
+GET /hedging
+
+====Sun Jun 30 2019 22:27:22 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:27:23 ====
+GET /hedging
+
+====Sun Jun 30 2019 22:27:23 ====
+GET /me/fonts/flaticon/font/flaticon.css
+
+====Sun Jun 30 2019 22:27:24 ====
+GET /commissions
+
+====Sun Jun 30 2019 22:27:24 ====
+GET /me/fonts/flaticon/font/flaticon.css
