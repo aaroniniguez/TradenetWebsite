@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Referral from './Referral';
 
 class Payout extends Component {
 	render() {
@@ -13,8 +14,9 @@ class Payout extends Component {
 			  </div>
 			  <div className="timeline-label">
 				<h2>{this.props.month}<span> {this.props.year}</span></h2>
-				<img style={imageStyles} alt={this.props.month + " Payout"} src={"images/Payouts/" + this.props.month + "Payout.png"}></img>
+				<img style={imageStyles} alt={"Tradenet (TEFS) " + this.props.month + " Payout"} src={"images/Payouts/Tradenet" + this.props.month + "Payout.png"}></img>
 			  </div>
+			  <Referral />
 			</div>
 			</article>
 		)

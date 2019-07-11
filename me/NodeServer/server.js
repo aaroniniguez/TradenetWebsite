@@ -30,12 +30,13 @@ const asyncHandler = fn =>
 	
 //Define app
 let app = express();
-//app.use(express.static("/home/ec2-user/ReactWebsite/"));
-app.use("/me", express.static("/home/ec2-user/ReactWebsite/me/build"));
-app.use("/images", express.static("/home/ec2-user/ReactWebsite/me/build/images"));
-app.use("/TEFS", express.static("/home/ec2-user/ReactWebsite/me/build/TEFS"));
+let baseLocation ="/home/ec2-user/TradenetWebsite/me/build"; 
+app.use("/me", express.static(baseLocation));
+app.use("/images", express.static(baseLocation + "/images"));
+app.use("/TEFS", express.static(baseLocation + "/TEFS"));
 app.get("/", function(req, res) {
-	res.sendFile(path.join(__dirname, '../build/index.html'));
+	res.redirect("/about");
+	//res.sendFile(path.join(__dirname, '../build/index.html'));
 });
 
 app.response.savedSend = app.response.send;
@@ -66,7 +67,7 @@ app.get('/test.php', asyncHandler(async function(req, res) {
 app.get("/*", function(req, res) {
 	res.sendFile(path.join(__dirname, '../build/index.html'));
 });
-var portNumber = 3000;
+var portNumber = 80;
 let server = app.listen(portNumber, function() {  
 	console.log("Server is listening on port " + portNumber);
 });

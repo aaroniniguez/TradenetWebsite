@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Referral from './Referral'
 import Hotkey from './Hotkey'
+import Header from './Header'
 export default class Hotkeys extends Component {
   render() {
     return (
@@ -9,16 +10,16 @@ export default class Hotkeys extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3">
-                <h2>Hotkeys</h2>
+				<Header title="Hotkeys!" />
               </div>
             </div>
             <div className="row">
               <div className="col-md-12">
 				  	<p>You can set your hotkeys by going to Config->Hot Key</p>
-				  	<img src="/images/Hotkeys/HotKeyLocation.png" width="420px"></img>
+				  	<img alt="Setting Tradenet Hotkeys" src="/images/Hotkeys/TradenetHotKeyLocation.png" width="420px"></img>
 					<p>
-						Listed below are my personal hotkeys, I recommend making your Sell and Short hotkeys completely different than each other on they keyboard! You can easily
-						accidently click one instead of the other and selling shares on a current short position will add more shares to your position!
+						Listed below are my personal hotkeys, I recommend making your Sell and Short hotkeys completely different from each other on they keyboard! You can easily
+						accidently click one instead of the other and selling shares on a current short position will actually ADD MORE shares to your position!
 					</p>
 					<p>For shorting:</p>
 					<Hotkey shortcut="Alt+1" command="CXL ALL;Share=120;Route=CFDR;OrderType=Limit;Price=BID;Short" />

@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Referral from './Referral'
+import Header from './Header';
 export default class Layout extends Component {
   render() {
     return (
@@ -8,23 +9,22 @@ export default class Layout extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3">
-                {/*<span className="heading-meta">highlights</span>*/}
-                <h2>Setting Your Layout</h2>
+				<Header title="Setting Your Layout!" />
               </div>
             </div>
             <div className="row">
               <div className="col-md-12">
 			  	<p>
-					This is what my layout looks like, notice there are no charts. I don't recommend the charts on TEFS, I chart everything on ThinkOrSwim and highly recommend the platform as a lot of professional traders use it and it
-					has many cool features such as Thinkorswim On Demand which allows you to easily backtest your strategies.<br/> 
-					<img style={{width:"840px"}} src="/images/Layout/Layout.png" alt="TEFS Platform Layout" />
+					This is what my layout looks like, notice there are no charts. I don't recommend the charts on TEFS, I chart everything on ThinkOrSwim and highly recommend the platform for charting. A lot of professional traders use it and it
+					has many cool features such as Thinkorswim On Demand which allows you to easily backtest your strategies. But best of all, it's FREE! You can learn more here: <a target='_blank' href='https://www.thinkorswim.com'>https://www.thinkorswim.com</a><br/> 
+					<img style={{width:"840px"}} src="/images/Layout/TradenetLayout.png" alt="Tradenet (TEFS) Platform Layout" />
 				</p>
 				<p>
-					You can download my specific setup here: <br/><a href="/TEFS/Default.scr" download>Download Now</a>
+					You can download the layout above, here: <br/><a href="/TEFS/Default.scr" download>Download Now</a>
 					<br />	
 				</p>
 				<div style={{float:"left"}}>
-					<img style={{width:"210px", marginRight:"50px"}} src="images/Layout/SetDefaultScreen.png" alt="Default Screen" />
+					<img style={{width:"210px", marginRight:"50px"}} src="images/Layout/TradenetSetDefaultScreen.png" alt="Tradenet Default Screen" />
 				</div>
 				<div>
 					<p>
