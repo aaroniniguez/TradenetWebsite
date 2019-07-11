@@ -11,8 +11,16 @@ var util = require('util');
 var log_file = fs.createWriteStream(__dirname + '/nohup.out', {flags : 'a'});
 console.log = function(...args){
 	var myTime = new Date();
-	myTime = myTime.toString().split("GMT")[0];
-	log_file.write("\n====" + myTime + "====\n");
+	var dst = "PDT";
+	if(dst == "PDT"){
+		var offset = 7;
+	}
+	else if(dst == "PST"){
+		var offset = 8;
+	}
+	myTime.setHours(myTime.getHours()-offset);
+	myTime = myTime.toLocaleTimeString('en-US');
+	log_file.write("\n==== " + myTime + " PST ====\n");
 	args.forEach(function(element){
 	   log_file.write(util.format(element) + '\n');
 	});
