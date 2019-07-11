@@ -1,4 +1,4 @@
 /node_modules
 /me/node_modules
 /me/build
-.nohup.out
+nohup.out
