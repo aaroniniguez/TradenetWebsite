@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Referral from './Referral';
 import ReferralLink from './ReferralLink';
+import IntroAccountPrice from './IntroAccountPrice';
 
 export default class Introduction extends Component {
   render() {
@@ -25,13 +26,13 @@ export default class Introduction extends Component {
 						</p>
 						<p>
 							I've been trading on and off since 2012 when the marijuana stocks were booming. I was always struggling under PDT and was net negative around $20k in 
-							SureTrader before first becoming aware of Tradenet back in mid 2018. I was, of course, incredibly skeptical. I paid for the intial intro account because if it did turn out to be a scam the most I would be out would be $399 which isn't bad at all. 
+							SureTrader before first becoming aware of Tradenet back in mid 2018. I was, of course, incredibly skeptical. I paid for the intial intro account because if it did turn out to be a scam the most I would be out would be $500 which isn't bad at all. 
 							To my surprise not only was the trading platform good (in terms of execution speed, level 2 quotes, and <a href="/commissions">commissions</a>) but they actually <a href="/payouts">paid out!</a> My first intro account I netted around $3k and submitted a wire out request which subsequently went straight to my bank account. 
 							So after that initial payout I blew up my intro account, and made the risky decision to buy the student account. I was still very skeptical of actually receiving large figure payouts but getting that initial $2.2k payout helped decrease my fears a little bit. Long story short, after buying the student account, I had massive success, making over $18.7k off my initial $2.7k investment (I didnt pay the full $3k price for the package I used a discount link , such as the one here --> <ReferralLink />) 
 						</p>
 						<h2>Let's Backtrack, what exactly is Tradenet?</h2>
 						<p>Plain and simple , it's a way to get around PDT for US based traders. You don't trade Stocks, you trade CFD's . So the way it works is you buy different packages, for instance you can buy 
-						a $399 intro package which gives you access to a $14,000 account with a maximum drawdown of $700. You are literally paying $399, and you can lose $700. For traders starting out with a small amount of capital, this is a pretty sweet deal. Then it goes on to higher level packages, the highest one I 
+						a $500 intro package<IntroAccountPrice/> which gives you access to a $14,000 account with a maximum drawdown of $700. You are literally paying $500, and you can lose $700. For traders starting out with a small amount of capital, this is a pretty sweet deal. Then it goes on to higher level packages, the highest one I 
 						ever did was the $3k package which gives you access to $80k with a maximum drawdown of $4k. They have more expensive packages but honestly for the majority of traders out there, 
 						the intro and student accounts are all you need unless you are a very advanced trader and need a lot of capital. If you would like to learn more about the different packages, check out my write up <a href="/packages">here</a>
 						</p>
@@ -72,7 +73,7 @@ export default class Introduction extends Component {
 							<li>Personal EGO! I was probably the longest term consistent trader on Tradenet and feel like my story should be told!</li>
 							<li>Tradenet offers a very generous referral compensation program, so this site is LITTERED with my referral links</li>
 							<li>I actually would STILL recommend Tradenet (even if they offered no referral compensation) for US traders under PDT, the options out there just suck! Especially for scalpers!</li>
-							<li>I'm switching software engineering jobs so this is a good way to practice my Javascript. React + Node = <i class='icon-heart'></i> :D</li>
+							<li>I am passionate about programming(Javascript in particular :D) so this is a good way to practice my Javascript. React + Node = <i class='icon-heart'></i> :D</li>
 						</ul>
 						</p>
 				  <Referral />
