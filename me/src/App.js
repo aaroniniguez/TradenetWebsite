@@ -12,6 +12,15 @@ import Mobile from './components/Mobile'
 import Hedging from './components/Hedging'
 import Packages from './components/Packages'
 import { BrowserRouter as Router, Route} from "react-router-dom";
+import ReactGA from 'react-ga';
+import createHistory from 'history/createBrowserHistory'
+ReactGA.initialize('UA-143698861-1');
+const history = createHistory();
+ReactGA.pageview(window.location.pathname);
+history.listen((location, action) => {
+    ReactGA.pageview(location.pathname + location.search);
+    console.log(location.pathname)
+});
 
 class App extends Component {
   render() {
