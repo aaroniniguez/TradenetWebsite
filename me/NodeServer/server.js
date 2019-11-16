@@ -2,6 +2,8 @@ const express = require('express');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
+const https = require('https');
+const http = require('http');
 
 function isEmptyObject(obj) {
   return !Object.keys(obj).length;
@@ -35,9 +37,25 @@ const asyncHandler = fn =>
             next();
         });
     };  
-	
+
+// Certificate
+const privateKey = fs.readFileSync('/etc/letsencrypt/live/tradeforthemoney.com/privkey.pem', 'utf8');
+const certificate = fs.readFileSync('/etc/letsencrypt/live/tradeforthemoney.com/cert.pem', 'utf8');
+const ca = fs.readFileSync('/etc/letsencrypt/live/tradeforthemoney.com/chain.pem', 'utf8');
+const credentials = {
+	key: privateKey,
+	cert: certificate,
+	ca: ca
+};
+
 //Define app
 let app = express();
+app.all('*', (req, res, next) => {
+	if(req.protocol === 'https')
+		next();
+	else
+		return res.redirect("https://" + req.hostname + req.originalUrl);
+});
 let baseLocation ="/home/ec2-user/TradenetWebsite/me/build"; 
 app.use("/me", express.static(baseLocation));
 app.use("/images", express.static(baseLocation + "/images"));
@@ -72,10 +90,15 @@ app.get('/test.php', asyncHandler(async function(req, res) {
 	res.end();
 	return;
 }));
+app.get("/.well-known/acme-challenge/:id", function(req, res) {
+	res.sendFile(baseLocation+'/.well-known/acme-challenge/'+req.params.id);
+});
 app.get("/*", function(req, res) {
 	res.sendFile(path.join(__dirname, '../build/index.html'));
 });
 var portNumber = 80;
-let server = app.listen(portNumber, function() {  
+const httpServer = http.createServer(app);
+const httpsServer = https.createServer(credentials, app).listen(443);
+let server = httpServer.listen(portNumber, function() {  
 	console.log("Server is listening on port " + portNumber);
 });
