@@ -14,7 +14,8 @@ export default class Mobile extends Component {
             <div className="row">
               <div className="col-md-12">
 			  	<p>
-					While there is no iPhone app currently available, there is a google android app <a target="_blank" href="https://play.google.com/store/apps/details?id=com.tefs.mobile&hl=en_US">Download here!</a>
+					While there is no iPhone app currently available, there is a google android app<br/> 
+					<a target="_blank" href="https://play.google.com/store/apps/details?id=com.tefs.mobile&hl=en_US">https://play.google.com/store/apps/details?id=com.tefs.mobile&hl=en_US</a>
 				</p>
 				<Referral />
               </div>

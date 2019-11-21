@@ -30,6 +30,7 @@ export default class Sidebar extends Component {
                   <li><a className={this.state.currentPage == "/shorts" ? "aPsuedoHover" : ""} href="/shorts" data-nav-section="shorts">Shorting</a></li>
                   <li><a className={this.state.currentPage == "/commissions" ? "aPsuedoHover" : ""} href="/commissions" data-nav-section="commissions">Commissions</a></li>
                   <li><a className={this.state.currentPage == "/hedging" ? "aPsuedoHover" : ""} href="/hedging" data-nav-section="hedging">Hedging</a></li>
+                  <li><a className={this.state.currentPage == "/thinkorswim" ? "aPsuedoHover" : ""} href="/thinkorswim" data-nav-section="tos">Thinkorswim Studies</a></li>
                   <li><a className={this.state.currentPage == "/mobile" ? "aPsuedoHover" : ""} href="/mobile" data-nav-section="mobile">Mobile App</a></li>
                   <li><a class="nav-link" target="_blank" href="http://www.youtube.com/channel/UCGLVXMdyWJagv_5U3VqlmJQ">Videos</a></li>
                   <li><a className={this.state.currentPage == "/books" ? "aPsuedoHover" : ""} href="/books" data-nav-section="books">Recommended Books</a></li>

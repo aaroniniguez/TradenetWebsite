@@ -51,7 +51,7 @@ export default class Timeline extends Component {
 					this was due to the market being incredibly volatile in October as it looked like the market was going to have a massive reversal. That month I traded mainly UVXY on the long
 					and short side and made a killing every day (I think I was averaging around $1k on my winning days and -$1k on my losing days with a winning days to losing days ratio of 4 to 1)
 				</p>
-				<h2>Proof of Profits <span style={{color:"mediumseagreen"}}>(+$20,995.81)</span></h2>
+				<h2 id="proof">Proof of Profits <span style={{color:"mediumseagreen"}}>(+$20,995.81)</span></h2>
               <div className="col-md-12">
                 <div className="timeline-centered">
 					<Payout month="April"  year="2019" />

@@ -11,6 +11,7 @@ import Hotkeys from './components/Hotkeys'
 import Mobile from './components/Mobile'
 import Hedging from './components/Hedging'
 import Packages from './components/Packages'
+import Thinkorswim from './components/Thinkorswim'
 import { BrowserRouter as Router, Route} from "react-router-dom";
 import ReactGA from 'react-ga';
 import createHistory from 'history/createBrowserHistory'
@@ -37,6 +38,7 @@ class App extends Component {
 						<Route path='/Layout' component={Layout}/>
 						<Route path='/Hotkeys' component={Hotkeys}/>
 						<Route path='/Hedging' component={Hedging}/>
+						<Route path='/Thinkorswim' component={Thinkorswim}/>
 						<Route path='/commissions' component={Commissions}/>
 						<Route path='/books' component={Books}/>
 						<Route path='/packages' component={Packages}/>

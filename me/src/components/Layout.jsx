@@ -20,6 +20,9 @@ export default class Layout extends Component {
 					<img style={{width:"840px"}} src="/images/Layout/TradenetLayout.png" alt="Tradenet (TEFS) Platform Layout" />
 				</p>
 				<p>
+					This is what my time and sale color configuration looks like <img style={{width:"420px"}} src="/images/Layout/TradenetTimeAndSaleColorConfiguration.png" alt="Tradenet (TEFS) Time&Sales Config"/>
+				</p>
+				<p>
 					You can download the layout above, here: <br/><a href="/TEFS/Default.scr" download>Download Now</a>
 					<br />	
 				</p>
@@ -28,7 +31,7 @@ export default class Layout extends Component {
 				</div>
 				<div>
 					<p>
-						You can set this as your default screen on opening the TEFS application by saving it as the default screen and clicking "Open Default Screen" on login: 
+						You can set this as your default screen every time you open the TEFS application by saving the Default.scr file in "C:\TEFS Trader\" and clicking "Open Default Screen" on the login screen: 
 					</p>
 					<Referral />
 				</div>
