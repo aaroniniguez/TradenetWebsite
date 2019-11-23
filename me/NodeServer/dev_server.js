@@ -1,8 +1,6 @@
 const express = require('express'); 
 const fs = require('fs');
-const os = require('os');
 const path = require('path');
-const https = require('https');
 const http = require('http');
 
 function isEmptyObject(obj) {
