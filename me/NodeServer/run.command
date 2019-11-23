@@ -7,6 +7,7 @@ if [ "$1" = "prod" ]; then
 	nohup nodemon server.js &
 elif [ "$1" = "dev" ]; then
 	nohup nodemon dev_server.js &
+	open http://localhost:3000/
 	echo "Server up ! Go to ->     http://localhost:3000/";
 else 
 	echo "Options are prod or dev"
