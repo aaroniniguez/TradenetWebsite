@@ -10,6 +10,7 @@ export default class ThinkOrSwim extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3">
 				  <Header title="ThinkOrSwim Studies!"/>
+				  WORK IN PROGRESS..!
               </div>
             </div>
             <div className="row">
