@@ -20,9 +20,7 @@ export default class Introduction extends Component {
 						<br/>
 						<h2>Who am I?</h2>
 						<p>
-							Who am I? Am I some random Tradenet shill? Am I getting paid under the table and just using a demo account? 
-							Nope! I'm a real trader based in Los Angeles! You can actually 
-							hit me up if you are in the Santa Monica area. I love talking shop and networking with other traders! Just hit me up via twitter or my email!
+							I'm a full time trader based in Los Angeles, feel free to hit me up if you are in the Santa Monica area. I love talking shop and networking with other traders! Just hit me up via twitter or my email!
 						</p>
 						<p>
 							I've been trading on and off since 2012 when the marijuana stocks were booming. I was always struggling under PDT and was net negative around $20k in 
