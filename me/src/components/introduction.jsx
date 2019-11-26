@@ -20,7 +20,11 @@ export default class Introduction extends Component {
 						<br/>
 						<h2>Who am I?</h2>
 						<p>
-							I'm a full time trader based in Los Angeles, feel free to hit me up if you are in the Santa Monica area. I love talking shop and networking with other traders! Just hit me up via twitter or my email!
+							I'm a full time trader based in Los Angeles. If you are in the Santa Monica area feel free to hit me up, I love talking shop and networking with other traders! Just hit me up via twitter or my email:
+							<span className="email">
+								<i className="icon-mail"></i>
+								<img style={{width: "200px"}} alt="dont spam my email please" src="images/Sidebar/TradenetEmailAddress.png"></img>
+							</span>
 						</p>
 						<p>
 							I've been trading on and off since 2012 when the marijuana stocks were booming. I was always struggling under PDT and was net negative around $20k in 
