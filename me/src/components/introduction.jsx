@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Referral from './Referral';
 import ReferralLink from './ReferralLink';
 import IntroAccountPrice from './IntroAccountPrice';
+import LastUpdated from './LastUpdated';
 
 export default class Introduction extends Component {
   render() {
@@ -12,6 +13,7 @@ export default class Introduction extends Component {
             <div className="row">
 				  <div className="col-md-6">
 						<h1>My 1 Year Experience with Tradenet</h1>
+						<LastUpdated />
 				  </div>
 				  <div className="col-md-6">
 					  <img alt="Tradenet Logo" src="images/About/TradenetLogo.jpg" style={{width:"75%"}}></img>

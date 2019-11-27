@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Payout from './payout';
 import Referral from './Referral';
 import Header from './Header'
+import LastUpdated from './LastUpdated';
 
 export default class Timeline extends Component {
   render() {
@@ -12,6 +13,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
 			  <Header title="How the payout system works!" />
+			  <LastUpdated />
 				<p>
 					Firstly, because I know this is always a hot topic, yes Tradenet DOES pay out and I've never had an issue with getting a payout and I've gotten over $20k in payouts.
 					With that being said, let's go into the details of how to actually get a payout( you can see my payouts below)! Tradenet has kind of a weird/complex method of payout so be sure to know all the rules!<br />
