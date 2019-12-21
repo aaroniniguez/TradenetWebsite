@@ -2,6 +2,12 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
+var aws     = require('aws-sdk');
+var email   = "aaroniniguez1@gmail.com";
+const debugEmail = "info@tradeforthemoney.com"
+aws.config.loadFromPath(__dirname + '/config.json');
+var ses = new aws.SES();
+
 
 function isEmptyObject(obj) {
   return !Object.keys(obj).length;
@@ -92,6 +98,32 @@ app.get('/test.php', asyncHandler(async function(req, res) {
 app.get("/.well-known/acme-challenge/:id", function(req, res) {
 	res.sendFile(baseLocation+'/.well-known/acme-challenge/'+req.params.id);
 });
+app.get('/send', function (req, res) {
+    var ses_mail = "From: <" + debugEmail + ">\n";
+    ses_mail = ses_mail + "To: " + email + "\n";
+    ses_mail = ses_mail + "Subject: Link Clicked\n";
+    ses_mail = ses_mail + "MIME-Version: 1.0\n";
+    ses_mail = ses_mail + "Content-Type: multipart/mixed; boundary=\"NextPart\"\n\n";
+    ses_mail = ses_mail + "--NextPart\n";
+    ses_mail = ses_mail + "Content-Type: text/html; charset=us-ascii\n\n";
+    ses_mail = ses_mail + "Link clicked on: \n\n" + req.header("Referer");
+    
+    var params = {
+        RawMessage: { Data: new Buffer(ses_mail) },
+        Destinations: [ email ],
+        Source: "'AWS Tutorial Series' <" + email + ">'"
+    };
+    
+    ses.sendRawEmail(params, function(err, data) {
+        if(err) {
+            res.send(err);
+        } 
+        else {
+            res.send(data);
+        }           
+    });
+});
+
 app.get("/*", function(req, res) {
 	res.sendFile(path.join(__dirname, '../build/index.html'));
 });
