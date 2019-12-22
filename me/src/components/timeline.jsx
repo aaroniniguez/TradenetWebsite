@@ -49,7 +49,7 @@ export default class Timeline extends Component {
 		  	</div>
             <div className="row">
 				<p>
-					Anyway, on to the more interesting stuff, the payouts themselves! You'll notice I had a really good month in October 2018 and got a fat payout of $9k in November, 
+					Anyway, on to the more interesting stuff, the payouts themselves! You'll notice I had a really good month in October 2018 and got a large payout of $9k in November, 
 					this was due to the market being incredibly volatile in October as it looked like the market was going to have a massive reversal. That month I traded mainly UVXY on the long
 					and short side and made a killing every day (I think I was averaging around $1k on my winning days and -$1k on my losing days with a winning days to losing days ratio of 4 to 1)
 				</p>
