@@ -10,7 +10,7 @@ export default class Overnight extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3">
                 {/*<span className="heading-meta">highlights</span>*/}
-				<Header title="Overnight Fees!"/>
+				<Header title="Swing trading and overnight fees!"/>
               </div>
             </div>
             <div className="row">
@@ -19,7 +19,8 @@ export default class Overnight extends Component {
 				  </div>
 				  <div>
 				  	<p>
-						  Tradenet allows overnight shorts and longs up to 20% of your account. So if you have an intro account you can swing 20%
+						  Tradenet is suprisingly really good for swing traders as they do not charge any overnight holding fees at all 
+						  for up to 20% of your account. For example, if you have an intro account you can swing 20%
 						  of $14,000, so $2,800. Anything more than 20%, tradenet will automatically
 						  close the excess position amount at the end of the day.
 					</p>
