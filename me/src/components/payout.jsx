@@ -10,7 +10,7 @@ class Payout extends Component {
 			<article className="timeline-entry">
 			<div className="timeline-entry-inner">
 			  <div className="timeline-icon color-3">
-				<i className="icon-paypal" />
+				  <span className="payoutSymbol">$</span>
 			  </div>
 			  <div className="timeline-label">
 				<h2>{this.props.month}<span> {this.props.year}</span></h2>
