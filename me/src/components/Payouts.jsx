@@ -4,7 +4,7 @@ import Referral from './Referral';
 import Header from './Header'
 import LastUpdated from './LastUpdated';
 
-export default class Timeline extends Component {
+export default class Payouts extends Component {
   render() {
     return (
       <div>
