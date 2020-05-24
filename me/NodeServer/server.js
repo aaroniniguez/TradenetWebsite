@@ -44,9 +44,10 @@ const asyncHandler = fn =>
     };  
 
 // Certificate
-const privateKey = fs.readFileSync('/etc/letsencrypt/live/tradeforthemoney.com-0001/privkey.pem', 'utf8');
-const certificate = fs.readFileSync('/etc/letsencrypt/live/tradeforthemoney.com-0001/cert.pem', 'utf8');
-const ca = fs.readFileSync('/etc/letsencrypt/live/tradeforthemoney.com-0001/chain.pem', 'utf8');
+const certKeyFolder = "/etc/letsencrypt/live/tradeforthemoney.com-0001/";
+const privateKey = fs.readFileSync(certKeyFolder+'privkey.pem', 'utf8');
+const certificate = fs.readFileSync(certKeyFolder+'/cert.pem', 'utf8');
+const ca = fs.readFileSync(certKeyFolder+'chain.pem', 'utf8');
 const credentials = {
 	key: privateKey,
 	cert: certificate,
