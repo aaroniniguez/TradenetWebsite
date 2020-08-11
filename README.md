@@ -19,6 +19,14 @@ Then to renew:
 	
 Certbot will give instructions , choose option 2 which essentially puts a file on your website and then certbot tries to validate that the file exists via a get request
 
+You can enter '/' for the webroot and then put in your server.js code place this: 
+
+```
+app.get("/.well-known/acme-challenge/:id", function(req, res) {
+        res.sendFile('/.well-known/acme-challenge/'+req.params.id);
+});
+```
+
 Certbot will ask for your webroot (it will then download a file to where you enter)
 Input the webroot for tradeforthemoney.com: (Enter 'c' to cancel): /home/ec2-user/TradenetWebsite/me/build
 
