@@ -26,3 +26,9 @@ app.get("/.well-known/acme-challenge/:id", function(req, res) {
         res.sendFile('/.well-known/acme-challenge/'+req.params.id);
 });
 ```
+
+Then to renew the cert place this in cron: 
+
+```
+1 12 * * * certbot renew -w '/' >> /home/ec2-user/CertRenew.log
+```
